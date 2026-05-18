@@ -23,8 +23,6 @@ Endfield Protocol is built using Python and Pygame. It takes the traditional Oth
 
 ## **Installation**
 
-Step-by-step instructions on how to install and set up the project locally. 
-
 **Dependencies required:**
 - Python 3.10+
 - Pygame 2.0+
