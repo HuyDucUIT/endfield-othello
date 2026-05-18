@@ -31,7 +31,7 @@ Endfield Protocol is built using Python and Pygame. It takes the traditional Oth
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/endfield-protocol.git
+git clone https://github.com/HuyDucUIT/endfield-protocol.git
 cd endfield-protocol
 ```
 
