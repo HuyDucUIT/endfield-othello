@@ -1,6 +1,29 @@
----
+<div align="center">
 
 # **Endfield Protocol**
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
+![Pygame](https://img.shields.io/badge/Pygame-2.x-green?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
+
+<br>
+
+<table>
+  <tr>
+    <td><img src="demo/Screenshot%202026-05-19%20073709.png" alt="Screenshot" width="200"></td>
+    <td><img src="demo/Screenshot%202026-05-19%20073717.png" alt="Screenshot" width="200"></td>
+    <td><img src="demo/Screenshot%202026-05-19%20073742.png" alt="Screenshot" width="200"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="demo/Screenshot 2026-05-19 075341.png" alt="Screenshot" width="200"></td>
+    <td><img src="demo/Screenshot%202026-05-19%20073816.png" alt="Screenshot" width="200"></td>
+  </tr>
+</table>
+
+</div>
 
 A reimagining of the classic Othello (Reversi) board game with a sleek, futuristic Sci-Fi interface. Players can battle against each other locally or face off against an advanced AI Engine. Featuring dynamic board sizes, a unique Power-Up chest mechanic, and an integrated Hint system to aid your gameplay.
 
