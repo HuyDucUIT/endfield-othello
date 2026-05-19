@@ -493,7 +493,7 @@ class EndfieldOthello:
         2. Args: None
         3. Returns: None
         """
-        self.alert_msg = "POWER UP: DOUBLE TURN AND LOSE PIECES"
+        self.alert_msg = "POWER UP: DOUBLE TURN AND LOSE A PIECE"
         self.alert_timer = 150 
         self.remove_random_piece(self.current_turn)
         self.extra_turn_active = True
