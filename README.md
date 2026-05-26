@@ -27,6 +27,7 @@
 
 A reimagining of the classic Othello (Reversi) board game with a sleek, futuristic Sci-Fi interface. Players can battle against each other locally or face off against an advanced AI Engine. Featuring dynamic board sizes, a unique Power-Up chest mechanic, and an integrated Hint system to aid your gameplay.
 
+Introductory presentation (in Vietnamese) [here](https://canva.link/cen3logv74zin7s)
 ---
 
 ## **Description**
